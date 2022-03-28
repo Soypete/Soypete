@@ -1,9 +1,7 @@
 # [![miriah peterson header](img/Banner.png)](https://miriahpeterson.com)
 
 <p align='center'>
-<a href="https://miriahpeterson.com"><img height="30" src=""></a>&nbsp;&nbsp;
 <a href="https://twitter.com/captainnobody1"><img height="30" src="img/Twitter_Logo_WhiteOnBlue.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/captainnbody1"><img height="30" src="img/glyph-logo_May2016.png"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/soypete01"><img height="30" src="img/bmc-logo.png"></a>
 <a href="https://www.linkedin.com/in/miriahpeterson/"><img height="30" src="img/LI-In-Bug.png"></a>
 <a href="https://twitch.tv/soypete01"><img height="30" src="img/TwitchGlitchPurple.png"></a>
@@ -12,7 +10,7 @@
 Hey there 👋,
 I am [Miriah Peterson](https://miriahpeterson.com), a Data Engineer, Meetup organizer, Twitch Coder, and Speaker. I work mostly in Golang, but I'm also interested in Python, Rust, and other backend/low level languages. I'm a big fan of open source, and I'm always interested in learning new things. I love to share what I learn, and I'm always open to suggestions and feedback. You can see new technologies I learn on my twitch stream [here](https://twitch.tv/soypete01).
 
-I have two dogs, Max [!max](img/maximus.png) and Lou Lou [!lou](img/louloubig.png). 
+I have two dogs, Max ![max](img/maximus.png) and Lou Lou ![lou](img/louloubig.png). 
 
 For more information check out my full CV [here](https://miriahpeterson.com/cv).
 

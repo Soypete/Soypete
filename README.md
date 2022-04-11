@@ -10,7 +10,7 @@
 Hey there 👋,
 I am [Miriah Peterson](https://miriahpeterson.com), a Data Engineer, Meetup organizer, Twitch Coder, and Speaker. I work mostly in Golang, but I'm also interested in Python, Rust, and other backend/low level languages. I'm a big fan of open source, and I'm always interested in learning new things. I love to share what I learn, and I'm always open to suggestions and feedback. You can see new technologies I learn on my twitch stream [here](https://twitch.tv/soypete01).
 
-I have two dogs, Max ![max](img/maximus.png) and Lou Lou ![lou](img/louloubig.png). 
+I have two dogs, Max ![max](img/maximus.png | width=100) and Lou Lou ![lou](img/louloubig.png | width=100). 
 
 For more information check out my full CV [here](https://miriahpeterson.com/cv).
 
